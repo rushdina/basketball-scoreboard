@@ -15,7 +15,7 @@ Tracks Home and Guest scores in real time, allowing increments by 1, 2, or 3 poi
 - Efficient event delegation for button clicks.
 - Cached DOM elements for faster updates.
 
-## 🧠 What I Learned 
+## 🧩 Concepts Practiced
 - DOM manipulation for dynamic updates.
 - Event delegation and dataset usage.
 - State management with JS objects.
