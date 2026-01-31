@@ -5,6 +5,7 @@ It allows users to track scores for the Home and Guest teams. Each button update
 
 ## 🖼️ Preview
 🔗 Live Demo: https://basketball-scoreboard-rushdina.netlify.app/ 
+
 ![Basketball Scoreboard Preview](images/screenshot-basketballScoreboard.png)
 
 ## 🛠️ Built With
