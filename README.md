@@ -1,6 +1,6 @@
 # 🏀 Basketball Scoreboard
 
-A basketball scoreboard web solo project that allows users to track scores for the Home and Guest teams. Each button updates the score correctly, and a New Game button resets the scoreboard.
+A basketball scoreboard that allows users to track scores for the Home and Guest teams. Each button updates the score correctly, and a New Game button resets the scoreboard.
 
 ## 🖼️ Preview
 🔗 Live Demo: https://basketball-scoreboard-rushdina.netlify.app/ 
@@ -22,5 +22,5 @@ A basketball scoreboard web solo project that allows users to track scores for t
 - Add game period, fouls, or timer counter
 
 ## 🙌 Acknowledgements
-- **Scrimba course:** [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j)  
+- Solo project from [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j)  
 - **Design reference:** [Figma by Scrimba](https://www.figma.com/design/YC48MCx4frBFtYoz6rNJE6/Basketball-Scoreboard?node-id=0-1&p=f&t=EtxyyQtB3vZFm3YL-0)
