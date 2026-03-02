@@ -23,4 +23,4 @@ A basketball scoreboard that allows users to track scores for the Home and Guest
 
 ## 🙌 Acknowledgements
 - Solo project from [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j)  
-- **Design reference:** [Figma by Scrimba](https://www.figma.com/design/YC48MCx4frBFtYoz6rNJE6/Basketball-Scoreboard?node-id=0-1&p=f&t=EtxyyQtB3vZFm3YL-0)
+- Design reference from [Figma by Scrimba](https://www.figma.com/design/YC48MCx4frBFtYoz6rNJE6/Basketball-Scoreboard?node-id=0-1&p=f&t=EtxyyQtB3vZFm3YL-0)
