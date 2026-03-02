@@ -7,8 +7,8 @@ A basketball scoreboard web solo project that allows users to track scores for t
 
 ![Basketball Scoreboard Preview](images/screenshot-basketballScoreboard.png)
 
-## 🛠️ Built With
-- HTML, CSS, JavaScript
+## 🛠️ Technologies Used
+- **Frontend:** `HTML`, `CSS`, `JavaScript`
 
 ## 📚 What I Learned
 - How to store and manage state using JS objects
